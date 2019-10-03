@@ -1,0 +1,21 @@
+.menu-bg-grn {
+    background-color: green;
+    height: 100vh;
+}
+
+.heigh-100vh {
+    height: 100vh;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.image-size-200x200 {
+    height: auto;
+    object-fit: cover;
+}
+
+.vertical-align {
+    vertical-align: middle;
+}
