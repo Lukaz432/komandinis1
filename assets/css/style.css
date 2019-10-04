@@ -18,15 +18,28 @@ div {
     width: 100%;
     height: auto:
 }
-.soctinklai{
-    background-color: red);
+.square {
+    width: 400px;
+    height: 200px;
+    background-color: rgba(68, 49, 179, 0.1);
+    margin:8 px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    transform: skewX(-10deg);
+    transform-origin:top; 
 }
-.tekstas {
-  
-font-size: 30px;}
 
 footer {
 height: 20vh;
 background-image: url(https://cdn-wp.nkdev.info/youplay/wp-content/uploads/2015/06/footer-bg.jpg);
 background-size:cover; 
+}
+
+footer .social {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    background: rgba(68, 49, 179, 0.1);
 }
